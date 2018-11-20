@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MvpCommon</string>
+    <string name="str_mvp">the common mvp!</string>
+</resources>
